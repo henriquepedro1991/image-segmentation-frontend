@@ -1,18 +1,18 @@
 {
     "file_name": "51084.jpg",
     "processing_time": {
-        "leiden": 0.7719194889068604,
-        "hedonic": 0.8178842067718506,
-        "louvain": 0.7778506278991699,
-        "label_propagation": 0.7721869945526123,
-        "infomap": 0.9325878620147705
+        "leiden": 0.8249924182891846,
+        "hedonic": 0.8446686267852783,
+        "louvain": 0.8030505180358887,
+        "label_propagation": 0.8022277355194092,
+        "infomap": 0.9545855522155762
     },
     "memory_usage": {
-        "leiden": 235.171875,
-        "hedonic": 228.0859375,
-        "louvain": 230.93359375,
-        "label_propagation": 236.12890625,
-        "infomap": 224.6875
+        "leiden": 235.859375,
+        "hedonic": 228.70703125,
+        "louvain": 232.37890625,
+        "label_propagation": 237.078125,
+        "infomap": 228.35546875
     },
     "metrics": {
         "leiden": {

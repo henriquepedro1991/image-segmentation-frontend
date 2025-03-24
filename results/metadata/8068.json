@@ -1,18 +1,18 @@
 {
     "file_name": "8068.jpg",
     "processing_time": {
-        "leiden": 0.8210523128509521,
-        "hedonic": 0.8388528823852539,
-        "louvain": 0.7884008884429932,
-        "label_propagation": 0.7857761383056641,
-        "infomap": 0.9960191249847412
+        "leiden": 0.794062614440918,
+        "hedonic": 0.8562359809875488,
+        "louvain": 0.8092677593231201,
+        "label_propagation": 0.7910892963409424,
+        "infomap": 1.012418270111084
     },
     "memory_usage": {
-        "leiden": 235.5,
-        "hedonic": 241.50390625,
-        "louvain": 246.24609375,
-        "label_propagation": 241.71484375,
-        "infomap": 244.828125
+        "leiden": 234.9140625,
+        "hedonic": 241.63671875,
+        "louvain": 246.890625,
+        "label_propagation": 242.6328125,
+        "infomap": 245.66015625
     },
     "metrics": {
         "leiden": {

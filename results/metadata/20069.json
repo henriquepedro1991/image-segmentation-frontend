@@ -1,18 +1,18 @@
 {
     "file_name": "20069.jpg",
     "processing_time": {
-        "leiden": 0.7879610061645508,
-        "hedonic": 0.856022834777832,
-        "louvain": 0.7821614742279053,
-        "label_propagation": 0.8246707916259766,
-        "infomap": 1.0205740928649902
+        "leiden": 0.8552322387695312,
+        "hedonic": 0.9125120639801025,
+        "louvain": 0.8300039768218994,
+        "label_propagation": 0.800342321395874,
+        "infomap": 1.0288889408111572
     },
     "memory_usage": {
-        "leiden": 215.67578125,
-        "hedonic": 214.1171875,
-        "louvain": 218.65625,
-        "label_propagation": 219.84765625,
-        "infomap": 216.46875
+        "leiden": 216.11328125,
+        "hedonic": 213.5,
+        "louvain": 218.0390625,
+        "label_propagation": 219.55859375,
+        "infomap": 215.78125
     },
     "metrics": {
         "leiden": {

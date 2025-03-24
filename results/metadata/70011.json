@@ -1,18 +1,18 @@
 {
     "file_name": "70011.jpg",
     "processing_time": {
-        "leiden": 0.798914909362793,
-        "hedonic": 0.8656151294708252,
-        "louvain": 0.809441328048706,
-        "label_propagation": 0.8426017761230469,
-        "infomap": 1.0141215324401855
+        "leiden": 0.8246757984161377,
+        "hedonic": 0.8622522354125977,
+        "louvain": 0.8147432804107666,
+        "label_propagation": 0.8246486186981201,
+        "infomap": 1.067495584487915
     },
     "memory_usage": {
-        "leiden": 204.68359375,
-        "hedonic": 209.09375,
-        "louvain": 208.2578125,
-        "label_propagation": 208.5234375,
-        "infomap": 205.5859375
+        "leiden": 209.34765625,
+        "hedonic": 213.35546875,
+        "louvain": 210.14453125,
+        "label_propagation": 209.484375,
+        "infomap": 206.44921875
     },
     "metrics": {
         "leiden": {

@@ -1,18 +1,18 @@
 {
     "file_name": "41096.jpg",
     "processing_time": {
-        "leiden": 0.7721366882324219,
-        "hedonic": 0.8055624961853027,
-        "louvain": 0.7674236297607422,
-        "label_propagation": 0.7738535404205322,
-        "infomap": 0.9266612529754639
+        "leiden": 0.8585996627807617,
+        "hedonic": 0.9297385215759277,
+        "louvain": 0.8330693244934082,
+        "label_propagation": 0.8195614814758301,
+        "infomap": 0.980154275894165
     },
     "memory_usage": {
-        "leiden": 204.09375,
-        "hedonic": 209.76171875,
-        "louvain": 201.203125,
-        "label_propagation": 204.18359375,
-        "infomap": 208.75390625
+        "leiden": 204.9375,
+        "hedonic": 209.3671875,
+        "louvain": 203.01171875,
+        "label_propagation": 203.56640625,
+        "infomap": 208.296875
     },
     "metrics": {
         "leiden": {
